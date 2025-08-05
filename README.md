@@ -13,7 +13,7 @@
 <a href="https://instagram.com/eric.ansss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eric.ansss" height="30" width="40" /></a>
 </p>
 
-In my free time, I’m interested in cyber security and occasionally look for vulnerabilities./p>
+In my free time, I’m interested in cyber security and occasionally look for vulnerabilities.</p>
 -> <a href="https://hackerone.com/codelyyy?type=user">Hackerone</a>
 
 <h3 align="left">Languages and Tools:</h3>
