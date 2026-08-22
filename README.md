@@ -8,7 +8,7 @@
 <p>I like working on practical projects and continuously improving my skills through hands-on experimentation.<p>
 
 ## A Bit About Me:
-<p>- I have a cat 🐈</p>p>
+<p>- I have a cat 🐈</p>
 <p>-  Not a coffee, but a tea person 🍵</p>
 
 
